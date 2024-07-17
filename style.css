@@ -4,3 +4,123 @@
     margin: 0;
     padding: 0;
 }
+
+.img-logo{
+    position: absolute;
+    top: 25px;
+    
+    
+}
+
+
+.help{
+    position: absolute;
+    color: #000000;
+    top: 60px;
+    right: 550px;
+    font-weight: normal;
+    font-size: 18px;
+    border: none;
+    background-color: #ffffff;
+
+   }
+
+
+.blog{
+    position: absolute;
+    color: #000000;
+    top: 60px;
+    right: 650px;
+    font-weight: normal;
+    font-size: 18px;
+    border: none;
+    background-color: #ffffff;
+}
+
+.tour{
+    position: absolute;
+    color: #000000;
+    top: 60px;
+    right: 750px;
+    font-weight: normal;
+    font-size: 18px;
+    border: none;
+    background-color: #ffffff;
+}
+
+.examples{
+    position: absolute;
+    color: #000000;
+    top: 60px;
+    right: 850px;
+    font-weight: normal;
+    font-size: 18px;
+    border: none;
+    background-color: #ffffff;
+}
+.overview{
+    position: absolute;
+    color: #000000;
+    top: 60px;
+    right: 1000px;
+    font-weight: normal;
+    font-size: 18px;
+    border: none;
+    background-color: #ffffff;
+}
+
+.download{
+    position: absolute;
+    border-radius: 25px;
+    background-color:#04ddb2 ;
+    color: #ffffff;
+    width: 130px;
+    height: 48px;
+    top: 45px;
+    right: 220px;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    transition: .2s ease-in-out;
+   
+   }
+
+   .lobe{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+    font-weight: bold;
+    font-size: 25px;
+    
+   }
+   .Lobe-Tour{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    margin-top: 180px;
+    
+   }
+
+   .text-1{
+    font-size: 70px;
+    color: #000000;
+    font-weight: 700;
+   }
+   .text-2{
+    font-size: 70px;
+    color: #04ddb2;
+    font-weight: 700;
+   }
+
+   .paragraph{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    margin-top: 40px;
+    font-size: 25px;
+   }
+   
