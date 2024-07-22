@@ -79,6 +79,7 @@ body {
     font-family: sans-serif;
     margin-top: 40px;
     font-size: 25px;
+
 }
 
 .pic {
@@ -89,6 +90,18 @@ body {
 
 .h1 {
     position: relative;
+
+   }
+   
+.pic{
+   
+    right: 233px;
+    
+   
+    
+}
+.h1{
+    position: absolute;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -182,14 +195,90 @@ a:hover {
     position: relative;
     left: 120px;
 }
+    top: 590px;
+    left: 535px;
+    font-size: 50px;
+   
+} 
+.Download
+{
+
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 20px;
+}
+.logo-lobe{
+position: absolute;
+left: 222px;
+top: 30px;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+a{
+    text-decoration: none; 
+    color: #666;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none; 
+}
+
+.column-1{
+    position: absolute;
+    left: 250px;
+     top: 70px;
+     color: #767676;
+}
+.column-2{
+    position: absolute;
+    left: 500px;
+     top: 17px;
+     color: #767676;
+}
+.column-3{
+    position: absolute;
+    left: 700px;
+     top: 17px;
+     color: #767676;
+}
+.column-4{
+    position: absolute;
+    left: 910px;
+     top: 17px;
+     color: #767676;
+}
+.social-icons {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 150px;
+     top: 35px;
+   
+
+
+}
+
+
 .social-icons a {
     color: #32c69a;
     font-size: 35px;
     margin: 0 10px;
 }
+
+
+
 .social-icons a:hover {
     color: #32c69ab4;
 }
+
 
 
 @media (max-width: 1024px) {
@@ -251,4 +340,5 @@ a:hover {
     .h1, .h-1 {
         font-size: 25px;
     }
+
 }
